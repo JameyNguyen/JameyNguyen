@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Jamey Nguyen, and I'm primarily interested in full-stack development.
+
+I have a wide variety of interests which is what led me to be interested in full-stack in the first place!
+As a junior at Iowa State University, I've taken both front-end and back-end coursework, and have received guidance on networking and infrastructure concepts during
+previous internships. I'm well suited to work in a variety of roles and am very adaptable.
 <!--
 **JameyNguyen/JameyNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
